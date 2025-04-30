@@ -20,7 +20,7 @@ if ($skill >= 80) {
         // Jika teamwork juga lolos, cek attitude
         if ($attitude >= 75) {
             // Semua syarat terpenuhi
-            echo "Selamat! Kamu diterima menjadi anggota Klub Esports.";
+            echo "Selamat! Kamu diterima menjadi anggota Klub Reepal Esprot.";
         } else {
             // Attitude tidak memenuhi syarat
             echo "Maaf, attitude kamu belum memenuhi syarat.";
